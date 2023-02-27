@@ -1,0 +1,26 @@
+
+
+body
+{
+  background-color:black;
+
+}
+header
+{
+ width: 600px; margin: auto; height: 20px; padding: 30px ;
+  background: white;
+}
+section
+{
+   width: 600px; margin: auto; height: 20px; padding: 60px 30px;
+  background: white;
+}
+section a
+{
+    margin:  40px;
+    }
+footer
+{
+   width: 600px; margin: auto;height: 600px; padding: 30px;
+  background: white;
+}
